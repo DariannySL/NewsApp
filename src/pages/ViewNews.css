@@ -1,0 +1,42 @@
+.news {
+    margin: 10px;
+}
+
+.imageConteiner {
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.image2 {
+    opacity: 0.6;
+    border-radius: 3px;
+    object-fit: none;
+    width: 100%;
+}
+
+.title {
+    font-weight: lighter;
+    text-shadow: -1px -1px 0 #212121, 1px -1px 0 #212121,
+                 -1px 1px 0 #212121, 1px 1px 0 #212121;
+}
+
+.date {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.newsInfo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.newsMain {
+    padding: 20px;
+    width: 100%;
+    text-align: justify;
+}

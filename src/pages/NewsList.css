@@ -1,0 +1,33 @@
+.container {
+    margin-top: 30px;
+}
+
+.formSearch {
+    display: flex;
+    align-items: center;
+
+}
+
+.txtSearch {
+    margin-right: 5px;
+}
+
+.btnSearch {
+    width: 90px;
+}
+
+.pagination {
+    /* 
+    height: 81px;
+    position: absolute;
+    bottom: 0;
+    top: 900px;
+    left: 260px; */
+
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    left: 520px;
+    width:100%;
+}

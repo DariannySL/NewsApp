@@ -1,0 +1,17 @@
+#container {
+    margin-top: 50px;
+}
+
+#titlePrimary {
+    margin: auto;
+    text-align: center;
+}
+
+#content {
+    height: 500px;
+}
+
+.button{
+    margin-top: 50px;
+    margin-left: auto;
+}
